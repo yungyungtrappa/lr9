@@ -1,3 +1,4 @@
-line1 from master
-line2 from master
-line3 from master
+Line 1 from conflict-branch AND main branch (merged)
+Line 2 from conflict-branch
+Line 2 from main branch
+Line 3 from main branch
